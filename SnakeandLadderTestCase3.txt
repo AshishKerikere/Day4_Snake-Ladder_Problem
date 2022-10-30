@@ -1,0 +1,6 @@
+                                         SNAKE AND LADDER TEST CASE 3
+
+the number of times person 1 rolled the dice was 243
+the number of times person 2 rolled the dice was 243
+The position of player1 is 43
+The position of player2 is 100
